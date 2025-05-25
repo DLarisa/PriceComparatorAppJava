@@ -1,0 +1,9 @@
+### Test getTopDiscountsForStore - store required, optional productName, brand, topN, date
+POST http://localhost:8080/api/discounts/top-store
+Content-Type: application/json
+
+{
+  "store": "lidl",
+  "topN": "TEN",
+  "date": "2025-05-08"
+}

@@ -1,0 +1,8 @@
+### Test getTopDiscountsAcrossAllStores - topN and date optional
+POST http://localhost:8080/api/discounts/top-all
+Content-Type: application/json
+
+{
+  "topN": "FIFTEEN",
+  "date": "2025-05-08"
+}

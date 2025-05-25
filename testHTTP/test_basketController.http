@@ -1,0 +1,25 @@
+POST http://localhost:8080/api/basket/optimize
+Content-Type: application/json
+
+[
+  {
+    "productName": "lapte UHT",
+    "brand": "laDorna"
+  },
+  {
+    "productName": "lapte zuzu",
+    "brand": "Zuzu"
+  },
+  {
+    "productName": "ouă mărimea M",
+    "brand": "Ferma Veche"
+  },
+  {
+    "productName": "pâine albă",
+    "brand": "K-Classic"
+  },
+  {
+    "productName": "aspirator",
+    "brand": ""
+  }
+]

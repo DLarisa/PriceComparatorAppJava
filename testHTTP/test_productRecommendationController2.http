@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/recommendations/substitutes?productName=lapte%20UHT&brand=laDorna&store=lidl&date=2025-05-08
+Accept: application/json

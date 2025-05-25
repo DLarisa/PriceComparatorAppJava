@@ -1,0 +1,97 @@
+POST http://localhost:8080/api/basket/optimize
+Content-Type: application/json
+
+[
+  {
+    "productName": "ciocolată neagră 70%",
+    "brand": ""
+  },
+  {
+    "productName": "roșii cherry",
+    "brand": "Generic"
+  },
+  {
+    "productName": "brânză telemea",
+    "brand": ""
+  },
+  {
+    "productName": "pâine albă",
+    "brand": "K-Classic"
+  },
+  {
+    "productName": "apă plată",
+    "brand": "Aqua Carpatica"
+  },
+  {
+    "productName": "apă minerală",
+    "brand": "Borsec"
+  },
+  {
+    "productName": "pizza congelată",
+    "brand": "K-Classic"
+  },
+  {
+    "productName": "pizza congelată",
+    "brand": "K-Classic"
+  },
+  {
+    "productName": "ulei floarea-soarelui",
+    "brand": "Spornic"
+  },
+  {
+    "productName": "caiet matematică A4",
+    "brand": ""
+  },
+  {
+    "productName": "caiet dictando A4",
+    "brand": ""
+  },
+  {
+    "productName": "piept pui",
+    "brand": "Avicola"
+  },
+  {
+    "productName": "vin alb demisec",
+    "brand": "Jidvei"
+  },
+  {
+    "productName": "mălai extra",
+    "brand": "Pambac"
+  },
+  {
+    "productName": "biscuiți cu unt",
+    "brand": "Milka"
+  },
+  {
+    "productName": "ouă mărimea M",
+    "brand": "Lidl"
+  },
+  {
+    "productName": "zahăr tos",
+    "brand": ""
+  },
+  {
+    "productName": "șampon păr gras",
+    "brand": "Elseve"
+  },
+  {
+    "productName": "piper negru măcinat",
+    "brand": "Kamis"
+  },
+  {
+    "productName": "cașcaval",
+    "brand": "K-Classic"
+  },
+  {
+    "productName": "file somon",
+    "brand": ""
+  },
+  {
+    "productName": "cartofi albi",
+    "brand": ""
+  },
+  {
+    "productName": "cartofi albi",
+    "brand": ""
+  }
+]

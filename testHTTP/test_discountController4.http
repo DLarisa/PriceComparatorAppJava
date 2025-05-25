@@ -1,0 +1,7 @@
+### Test missing required store in getTopDiscountsForStore - should return 400
+POST http://localhost:8080/api/discounts/top-store
+Content-Type: application/json
+
+{
+  "store": ""
+}

@@ -1,0 +1,11 @@
+### Get new discounts added within last 3 days
+POST http://localhost:8080/api/discounts/new
+Content-Type: application/json
+
+{
+  "productName": "lapte UHT",
+  "brand": "laDorna",
+  "topN": "TEN",
+  "date": "2025-05-08",
+  "newWithinDays": 7
+}

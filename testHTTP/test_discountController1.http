@@ -1,0 +1,10 @@
+### Test getBestDiscounts - productName required, optional brand, topN, date
+POST http://localhost:8080/api/discounts/top
+Content-Type: application/json
+
+{
+  "productName": "lapte UHT",
+  "brand": "",
+  "topN": "TEN",
+  "date": "2025-05-08"
+}

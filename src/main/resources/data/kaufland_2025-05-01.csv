@@ -1,0 +1,28 @@
+product_id;product_name;product_category;brand;package_quantity;package_unit;price;currency
+P001;lapte zuzu;lactate;Zuzu;1;l;10.10;RON
+P003;iaurt grecesc;lactate;Olympus;0.4;kg;11.80;RON
+P006;ouă mărimea M;ouă;Ferma Veche;10;buc;13.50;RON
+P009;brânză telemea;lactate;Hochland;0.3;kg;13.10;RON
+P012;pâine albă;panificație;K-Classic;500;g;3.60;RON
+P015;roșii cherry;legume și fructe;K-Bio;250;g;7.00;RON
+P018;piept pui;carne;Agricola;1;kg;27.90;RON
+P020;spaghetti nr.5;paste făinoase;Barilla;500;g;5.90;RON
+P022;zahăr tos;alimente de bază;Mărgăritar;1;kg;4.50;RON
+P025;apă plată;băuturi;Dorna;2;l;5.30;RON
+P027;banane;legume și fructe;Generic;1;kg;6.20;RON
+P029;ulei floarea-soarelui;alimente de bază;Floriol;1;l;9.50;RON
+P032;biscuiți cu unt;gustări;Milka;0.2;kg;7.50;RON
+P035;cafea măcinată;cafea;Jacobs;0.25;kg;23.00;RON
+P038;detergent lichid;produse de menaj;Ariel;2.5;l;50.50;RON
+P041;șampon păr gras;îngrijire personală;Elseve;400;ml;18.00;RON
+P044;hârtie igienică 3 straturi;produse de menaj;Pufina;10;role;19.20;RON
+P047;piper negru măcinat;condimente;Fuchs;50;g;6.10;RON
+P050;vin alb demisec;băuturi;Recas;0.75;l;24.00;RON
+P053;ciocolată neagră 70%;gustări;Heidi;100;g;4.10;RON
+P056;cartofi albi;legume și fructe;Generic;1;kg;3.20;RON
+P058;ceapă galbenă;legume și fructe;Generic;1;kg;2.90;RON
+P059;morcovi;legume și fructe;Generic;0.5;kg;2.50;RON
+P060;suc portocale;băuturi;Cappy;1;l;7.80;RON
+P062;cașcaval;lactate;Delaco;0.25;kg;15.00;RON
+P777;lapte UHT;lactate;laDorna;1;l;9.20;RON
+P778;lapte UHT;lactate;Pilos;1;l;5.20;RON

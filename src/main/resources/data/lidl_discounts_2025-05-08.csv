@@ -1,0 +1,14 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P001;lapte zuzu;Zuzu;1;l;lactate;2025-05-08;2025-05-14;12
+P008;brânză telemea;Pilos;0.3;kg;lactate;2025-05-08;2025-05-14;10
+P017;piept pui;Lidl;1;kg;carne;2025-05-09;2025-05-15;8
+P034;cafea măcinată;Davidoff;0.25;kg;cafea;2025-05-10;2025-05-16;15
+P028;ulei floarea-soarelui;Bunica;1;l;alimente de bază;2025-05-08;2025-05-14;7
+P037;detergent lichid;Persil;2.5;l;produse de menaj;2025-05-09;2025-05-15;20
+P040;șampon păr gras;Head & Shoulders;400;ml;îngrijire personală;2025-05-10;2025-05-16;18
+P043;hârtie igienică 3 straturi;Zewa;10;role;produse de menaj;2025-05-08;2025-05-14;10
+P052;ciocolată neagră 70%;Fin Carre;100;g;gustări;2025-05-09;2025-05-15;12
+P055;cartofi albi;Lidl;1;kg;legume și fructe;2025-05-10;2025-05-16;6
+P064;mălai extra;Pambac;1;kg;alimente de bază;2025-05-08;2025-05-14;5
+P065;file somon;Lidl;0.2;kg;pește;2025-05-09;2025-05-15;10
+P066;cremă de brânză;Almette;0.15;kg;lactate;2025-05-10;2025-05-16;8

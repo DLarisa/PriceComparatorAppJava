@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/price-history?productName=banane&startDate=2025-05-01&endDate=2025-05-14
+Accept: application/json

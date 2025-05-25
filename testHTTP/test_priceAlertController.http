@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/alerts/price?productName=banane&targetPrice=6&date=2025-05-08
+Accept: application/json
